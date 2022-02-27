@@ -1,0 +1,8 @@
+Gear:
+	partID: B4_temp
+	pitch: 0.5
+	numbTeeth: 12
+	startX: 13.6
+	startY: 16.6
+	startAngle: 22.0
+Gear End:

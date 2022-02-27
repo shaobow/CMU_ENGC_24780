@@ -1,0 +1,8 @@
+Gear:
+	partID: B1_temp
+	pitch: 2.0
+	numbTeeth: 30
+	startX: 57.5
+	startY: 23.7
+	startAngle: 0.0
+Gear End:

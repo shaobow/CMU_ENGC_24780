@@ -1,0 +1,40 @@
+Gear:
+	partID: B1_temp
+	pitch: 2.0
+	numbTeeth: 30
+	startX: 57.5
+	startY: 23.7
+	startAngle: 0.0
+Gear End:
+Gear:
+	partID: B2_temp
+	pitch: 0.5
+	numbTeeth: 16
+	startX: 57.5
+	startY: 23.7
+	startAngle: 50.0
+Gear End:
+Gear:
+	partID: B3_temp
+	pitch: 0.5
+	numbTeeth: 12
+	startX: 31
+	startY: 33.5
+	startAngle: 20.0
+Gear End:
+Gear:
+	partID: B4_temp
+	pitch: 0.5
+	numbTeeth: 12
+	startX: 13.6
+	startY: 16.6
+	startAngle: 22.0
+Gear End
+Gear:
+	partID: B5_temp
+	pitch: 2.0
+	numbTeeth: 65
+	startX: 71.7
+	startY: 42.8
+	startAngle: 78.0
+Gear End:

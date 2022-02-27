@@ -1,0 +1,8 @@
+Gear:
+	partID: B5_temp
+	pitch: 2.0
+	numbTeeth: 65
+	startX: 71.7
+	startY: 42.8
+	startAngle: 78.0
+Gear End:
